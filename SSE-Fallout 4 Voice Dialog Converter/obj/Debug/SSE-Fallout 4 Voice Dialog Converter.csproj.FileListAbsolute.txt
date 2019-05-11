@@ -1,0 +1,24 @@
+H:\Visual Studio\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\bin\Debug\SSE-Fallout 4 Voice Dialog Converter.exe.config
+H:\Visual Studio\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\bin\Debug\SSE-Fallout 4 Voice Dialog Converter.exe
+H:\Visual Studio\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\bin\Debug\SSE-Fallout 4 Voice Dialog Converter.pdb
+H:\Visual Studio\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\obj\Debug\SSE-Fallout 4 Voice Dialog Converter.csprojAssemblyReference.cache
+H:\Visual Studio\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\obj\Debug\SSE_Fallout_4_Voice_Dialog_Converter.Credits.resources
+H:\Visual Studio\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\obj\Debug\SSE_Fallout_4_Voice_Dialog_Converter.Main.resources
+H:\Visual Studio\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\obj\Debug\SSE_Fallout_4_Voice_Dialog_Converter.Properties.Resources.resources
+H:\Visual Studio\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\obj\Debug\SSE-Fallout 4 Voice Dialog Converter.csproj.GenerateResource.cache
+H:\Visual Studio\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\obj\Debug\SSE-Fallout 4 Voice Dialog Converter.csproj.CoreCompileInputs.cache
+H:\Visual Studio\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\obj\Debug\SSE-Fallout 4 Voice Dialog Converter.exe
+H:\Visual Studio\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\obj\Debug\SSE-Fallout 4 Voice Dialog Converter.pdb
+H:\Visual Studio\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\obj\Debug\SSE_Fallout_4_Voice_Dialog_Converter.FUZ_WAV.resources
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\bin\Debug\SSE-Fallout 4 Voice Dialog Converter.exe.config
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\bin\Debug\SSE-Fallout 4 Voice Dialog Converter.exe
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\bin\Debug\SSE-Fallout 4 Voice Dialog Converter.pdb
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\obj\Debug\SSE-Fallout 4 Voice Dialog Converter.csprojAssemblyReference.cache
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\obj\Debug\SSE_Fallout_4_Voice_Dialog_Converter.Credits.resources
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\obj\Debug\SSE_Fallout_4_Voice_Dialog_Converter.FUZ_WAV.resources
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\obj\Debug\SSE_Fallout_4_Voice_Dialog_Converter.Main.resources
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\obj\Debug\SSE_Fallout_4_Voice_Dialog_Converter.Properties.Resources.resources
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\obj\Debug\SSE-Fallout 4 Voice Dialog Converter.csproj.GenerateResource.cache
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\obj\Debug\SSE-Fallout 4 Voice Dialog Converter.csproj.CoreCompileInputs.cache
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\obj\Debug\SSE-Fallout 4 Voice Dialog Converter.exe
+C:\Users\Logan Melott\source\repos\SSE-Fallout 4 Voice Dialog Converter\SSE-Fallout 4 Voice Dialog Converter\obj\Debug\SSE-Fallout 4 Voice Dialog Converter.pdb
