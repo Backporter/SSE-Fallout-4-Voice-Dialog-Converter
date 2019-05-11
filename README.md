@@ -8,5 +8,4 @@ fuz_extractor.exe found on the skyrim nexus ("https://www.nexusmods.com/skyrim/m
 How to install the required files:
 step one(1): copy all the required files to the "Data" folder
 You are done use the tool as you wish
->>>>>>> 81afdbf7a5c0319de8fc2528fb63a62900e2541f
 ![Screenshot](Main.PNG)
