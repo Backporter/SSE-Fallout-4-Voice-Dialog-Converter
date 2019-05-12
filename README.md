@@ -26,12 +26,15 @@ Get the .fuz files (or folder which contains these files).
 When adding the .fuz to the tool you have a couple of options, you can click the "Add Files" button to add multiple files by hand, you can click "Add Directory..." which will search the directory you choose for .fuz files, or you can drag the folder containing the .fuz files onto the app and it will automatically scan and detect .fuz files.
 Once you have gotten the .fuz files of your choice onto the too click "Convert" and wait for it to be finished.
 Done! Now you can enjoy converted voice dialog!
+
 Questions and answers:
 
 Question: What is this tool for?
+
 answer: This tool converters PC .fuz files to PS4 .fuz files which is played on the PS4.
 
 Question: Do I need to use this tool on my PC .fuz?
+
 answer: Yes, PC .fuz will NOT play on PS4.
 
 You are done use the tool as you wish
