@@ -16,7 +16,7 @@ wile your here grab a few others for the other tools
 
 xWMAEncode.exe found in the DirectX SDK ("https://www.microsoft.com/en-us/download/details.aspx?id=6812")
 
-fuz_extractor.exe found on the skyrim nexus ("https://www.nexusmods.com/skyrim/mods/9797/")
+fuz_extractor.exe found on the skyrim nexus ("https://www.nexusmods.com/skyrim/mods/950/?")
 
 How to install the required files:
 
