@@ -1,5 +1,7 @@
 # SSE-Fallout-4-Voice-Dialog-Converter
+
 Check the changelog.MD for more info
+
 This tool can be used to convert given Voice dialog(.fuz) to PS4 format
 
 Requirements:
