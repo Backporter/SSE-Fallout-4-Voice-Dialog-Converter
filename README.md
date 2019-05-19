@@ -31,11 +31,11 @@ Questions and answers:
 
 Question: What is this tool for?
 
-answer: This tool converters PC .fuz files to PS4 .fuz files which is played on the PS4.
+Answer: This tool converters PC .fuz files to PS4 .fuz files which is played on the PS4.
 
 Question: Do I need to use this tool on my PC .fuz?
 
-answer: Yes, PC .fuz will NOT play on PS4.
+Answer: Yes, PC .fuz will NOT play on PS4.
 
 You are done use the tool as you wish
 
